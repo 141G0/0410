@@ -3,7 +3,7 @@
 // // a = 5;
 // console.log(a);
 
-var number = 5;
+var number = 4;
 var string = "Hello!";
 var sym = Symbol();
 var boolean = true;
