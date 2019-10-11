@@ -1,7 +1,7 @@
 'use strict'
 
 
-let mone, time;
+let money, time;
 
 function start() {
 	money = +prompt("Ваш бюджет на месяц?", '');
